@@ -28,6 +28,6 @@ moule.exports = {
 ```
 
 ### Options
-*prepend <string>* Add code to the beginning of the file
-*append <string>* Add code to the bottom of the file
-*transform(source) <function>* Function to make changes to the source code of the file
+- *prepend <string>* Add code to the beginning of the file
+- *append <string>* Add code to the bottom of the file
+- *transform(source) <function>* Function to make changes to the source code of the file
