@@ -1,21 +1,21 @@
 {
   "name": "code-inject-loader",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Inject code to certain files",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hirokiosame/code-inject-loader.git"
+    "url": "git+https://github.com/privatenumber/code-inject-loader.git"
   },
   "author": "Hiroki Osame <hiroki.osame@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hirokiosame/code-inject-loader/issues"
+    "url": "https://github.com/privatenumber/code-inject-loader/issues"
   },
-  "homepage": "https://github.com/hirokiosame/code-inject-loader#readme",
+  "homepage": "https://github.com/privatenumber/code-inject-loader#readme",
   "dependencies": {
     "loader-utils": "^1.2.3"
   }
