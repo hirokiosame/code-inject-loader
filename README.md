@@ -1,5 +1,5 @@
 # code-inject-loader
-Inject code to certain files
+> Inject code to certain files
 
 
 ## How to use
